@@ -1,6 +1,6 @@
 # CommonKV
 
-<img src="C:/Users/28592/Desktop/commonkv_code/commonkv_code/commonkv.jpg" alt="ConsRoute" />  
+<img src="commonkv.jpg"/>  
 
 CommonKV, a training-free method for cross-layer KV cache compression through adjacent parameters sharing.By integrating other approaches, we can ultimately achieve a 98% compression ratio without significant performance loss.
 
