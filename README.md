@@ -1,8 +1,13 @@
-# CommonKV
+<h2 align="center">CommonKV: Compressing KV Cache with Cross-layer Parameter Sharing</h2>
+
+<p align="center">
+    | <a href="https://www.arxiv.org/abs/2508.16134"><b>Paper</b></a> |
+</p>
 
 <img src="commonkv.jpg"/>  
 
-[CommonKV](https://www.arxiv.org/abs/2508.16134), a training-free method for cross-layer KV cache compression through adjacent parameters sharing.By integrating other approaches, we can ultimately achieve a 98% compression ratio without significant performance loss.
+CommonKV, a training-free method for cross-layer KV cache compression through adjacent parameters sharing.
+By integrating other approaches, we can ultimately achieve a 98% compression ratio without significant performance loss.
 
 
 
