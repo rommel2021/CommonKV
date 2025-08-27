@@ -2,7 +2,7 @@
 
 <img src="commonkv.jpg"/>  
 
-CommonKV, a training-free method for cross-layer KV cache compression through adjacent parameters sharing.By integrating other approaches, we can ultimately achieve a 98% compression ratio without significant performance loss.
+[CommonKV](https://www.arxiv.org/abs/2508.16134), a training-free method for cross-layer KV cache compression through adjacent parameters sharing.By integrating other approaches, we can ultimately achieve a 98% compression ratio without significant performance loss.
 
 
 
@@ -83,4 +83,9 @@ sh scripts/scripts_longBench/eval.sh
 ```
 ```bash 
 sh scripts/scripts_ruler/eval.sh
+```
+
+## Citation
+If you find this work is useful for your research, please cite our paper:
+```
 ```
