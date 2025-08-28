@@ -93,4 +93,10 @@ sh scripts/scripts_ruler/eval.sh
 ## Citation
 If you find this work is useful for your research, please cite our paper:
 ```
+@article{wang2025commonkv,
+  title={CommonKV: Compressing KV Cache with Cross-layer Parameter Sharing},
+  author={Wang, Yixuan and Qiao, Haoyu and Li, Lujun and Zhu, Qingfu and Che, Wanxiang},
+  journal={arXiv preprint arXiv:2508.16134},
+  year={2025}
+}
 ```
