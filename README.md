@@ -89,6 +89,7 @@ sh scripts/scripts_longBench/eval.sh
 ```bash 
 sh scripts/scripts_ruler/eval.sh
 ```
+If you encounter configuration issues while running the program using the llama 3.1-8B model, you can try replacing the config.json file in this project with one in the model weights folder.
 
 ## Citation
 If you find this work is useful for your research, please cite our paper:
